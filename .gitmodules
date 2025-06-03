@@ -1,9 +1,0 @@
-[submodule "api_mesa_central_mysql-produccion"]
-	path = api_mesa_central_mysql-produccion
-	url = https://github.com/jordanvegap/api_mesa_central_mysql.git
-[submodule "api_proveedores_integarcion-produccion"]
-	path = api_proveedores_integarcion-produccion
-	url = https://github.com/jordanvegap/api_proveedores_integracion.git
-[submodule "mdi_anam_mesa_central-produccion"]
-	path = mdi_anam_mesa_central-produccion
-	url = https://github.com/jordanvegap/mdi_anam_mesa_central.git
