@@ -10,6 +10,7 @@ services:
     volumes:
       - ./dump/dump.sql:/docker-entrypoint-initdb.d/init.sql
       - mysql_data:/var/lib/mysql
+      - ./dump.sql:/docker-entrypoint-initdb.d/dump.sql:ro
 
 volumes:
   mysql_data:
